@@ -17,5 +17,5 @@
 
 ### Contacts
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge)](https://t.me/baraguzin_a_v)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge)](https://www.linkedin.com/in/baraguzin/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/baraguzin_a_v)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/baraguzin/)

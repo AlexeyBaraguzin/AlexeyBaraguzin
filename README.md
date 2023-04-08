@@ -1,4 +1,4 @@
-![Header](https://github.com/AlexeyBaraguzin/AlexeyBaraguzin/blob/main/assets/head_banner_1.png)
+![Header](https://github.com/AlexeyBaraguzin/AlexeyBaraguzin/blob/main/assets/head_banner_2.png)
 
 ### Hi there 👋
 

@@ -19,4 +19,3 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge)](https://t.me/baraguzin_a_v)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge)](https://www.linkedin.com/in/baraguzin/)
-[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=mail&logoColor=4F7DB3)]("mailto:a.v.baraguzin@gmail.com")

@@ -8,8 +8,6 @@
 ![STLC](https://img.shields.io/badge/STLC-black?style=for-the-badge)
 ![Test case](https://img.shields.io/badge/test_case-black?style=for-the-badge)
 ![Bug report](https://img.shields.io/badge/Bug_report-black?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-![API](https://img.shields.io/badge/API-black?style=for-the-badge&logo=SQL)
 ![DevTools](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrom)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postma)
 ![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagge)

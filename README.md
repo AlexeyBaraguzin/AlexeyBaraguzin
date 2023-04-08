@@ -11,8 +11,9 @@
 
 ### Tools
 
-![DevTools](https://img.shields.io/badge/DevTools-aeaeae?style=for-the-badge&logo=googlechrome)
-![Postman](https://img.shields.io/badge/Postman-aeaeae?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-aeaeae?style=for-the-badge&logo=swagger)
-![DBeaver](https://img.shields.io/badge/DBeaver-aeaeae?style=for-the-badge&logo=DBeaver)
-![Jira](https://img.shields.io/badge/JIRA-aeaeae?style=for-the-badge&logo=JIRA&logoColor=blue)
+![DevTools](https://img.shields.io/badge/DevTools-aeaeae?style=for-the-badge&logo=googlechrom)
+![Postman](https://img.shields.io/badge/Postman-aeaeae?style=for-the-badge&logo=postma)
+![Swagger](https://img.shields.io/badge/Swagger-aeaeae?style=for-the-badge&logo=swagge)
+![MySQL](https://img.shields.io/badge/MYSQL-aeaeae?style=for-the-badge&logo=MySQ)
+![Jmeter](https://img.shields.io/badge/jmeter-aeaeae?style=for-the-badge&logo=jmete)
+![Jira](https://img.shields.io/badge/JIRA-aeaeae?style=for-the-badge&logo=JIR&logoColor=blue)
